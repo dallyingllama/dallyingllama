@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dallyingllama
 - 👀 I’m interested in software testing, meaning tools that can assist with testing such as automation, exploratory testing note-taking and similar.
-- 🌱 I’m currently learning nodejs and cypress.
+- 🌱 I’m currently using nodejs and cypress. I would say I am still learning.
 - 💞️ I max collaborate assuming the project really intests me..
 - 📫 How to reach me ...
 
